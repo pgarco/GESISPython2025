@@ -14,13 +14,13 @@
     - Github Basics 
     - Python Fundamentals I
 
-12:30 - 13:30 Lunch Break
+12:30 - 12:30 Lunch Break
 
 13:30 - 15:30 Afternoon workshop
 
 **Day 2**
 
-10-13:30 Morning lecture
+10-12:30 Morning lecture
   
     - Python Fundamentals II
     - Functions
@@ -32,7 +32,7 @@
 
 **Day 3**
 
-10-13:30 Morning lecture
+10-12:30 Morning lecture
  
     - Introduction to Pandas I
 
@@ -42,7 +42,7 @@
 
 **Day 4**
 
-10-13:30 Morning lecture
+10-12:30 Morning lecture
   
     - Introduction to Pandas II
     - Introduction to Visualization

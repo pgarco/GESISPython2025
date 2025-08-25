@@ -12,7 +12,7 @@
 10:00 -12:30 Morning lecture
   
     - Github Basics 
-    - Python Fundamentals I
+    - Python Fundamentals I - and other things
 
 12:30 - 13:30 Lunch Break
 
